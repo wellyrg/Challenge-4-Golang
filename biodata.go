@@ -86,7 +86,7 @@ func printMember() {
 			fmt.Printf("Nama : %v\nAlamat : %v\nPekerjaan : %v\nAlasan : %v\n", allMembers[11].Nama,
 				allMembers[11].Alamat, allMembers[11].Pekerjaan, allMembers[11].Alasan)
 		default:
-			fmt.Println("Data belum tersedia, Silahkan tambah ada")
+			fmt.Println("Data belum tersedia, Silahkan tambah DATA")
 		}
 	}
 }
